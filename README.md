@@ -116,7 +116,7 @@ Extracts negative content from X posts and uses AI to generate ideas to address 
 
 ---
 
-### [inkpost](https://github.com/Syogo-Suganoya/IdeaX)
+### [inkpost](https://github.com/Syogo-Suganoya/inkpost)
 
 Generates illustrated diary entries based on posts retrieved from X.
 
