@@ -21,7 +21,7 @@ Currently, I’m seeking a position where I can contribute to improving team tec
   <img alt="LeetCode Stats" height="150px" src="https://leetcard.jacoblin.cool/ssuga?theme=dark">
 </p>
 
-⸻
+---
 
 ## Skills
 ### Programming Languages
@@ -50,7 +50,7 @@ Currently, I’m seeking a position where I can contribute to improving team tec
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-⸻
+---
 
 ## Projects
 
@@ -102,3 +102,38 @@ Implemented **RAG (Retrieval-Augmented Generation)**, which significantly improv
 Developed a system designed to generate high-quality images based on user-provided text using **StableDiffusion**.  
 As a backend engineer, I was responsible for managing the model invocation and generation workflow.  
 Additionally, implemented an AI-based text validation module to enhance the overall quality of generated images.
+
+## Personal projects
+### [IdeaX](https://github.com/Syogo-Suganoya/IdeaX)
+
+Extracts negative content from X posts and uses AI to generate ideas to address the complaints.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+
+---
+
+### [inkpost](https://github.com/Syogo-Suganoya/IdeaX)
+
+Generates illustrated diary entries based on posts retrieved from X.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+
+---
+
+### [TweetMate](https://github.com/Syogo-Suganoya/TweetMate)
+
+Extracts common keywords from X posts to identify shared interests between users.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+![TinySegmenter](https://img.shields.io/badge/TinySegmenter-FFA500?style=flat)
+![argparse](https://img.shields.io/badge/argparse-6A5ACD?style=flat)
+![urllib](https://img.shields.io/badge/urllib-4682B4?style=flat)
