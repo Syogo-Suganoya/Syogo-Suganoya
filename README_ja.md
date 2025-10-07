@@ -96,3 +96,38 @@ Pythonでツールを開発し、MeCabを組み込んでカスタム辞書や独
 ユーザーが入力した文章を基に高品質な画像を生成するシステムの構築を目的とした開発プロジェクト。
 バックエンドとして、StableDiffusion の呼び出しや生成プロセスの管理を担当しました。
 AIによる入力文章の精査機能も実装し、生成される画像の品質向上を実現しました。
+
+## 個人開発
+### [IdeaX](https://github.com/Syogo-Suganoya/IdeaX)
+
+Xの投稿からネガティブな内容を抽出し、それを不満を解消するためのアイデアをAIで生成します。
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+
+---
+
+### [inkpost](https://github.com/Syogo-Suganoya/IdeaX)
+
+Xから取得した投稿をもとに絵日記を生成します。
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+
+---
+
+### [TweetMate](https://github.com/Syogo-Suganoya/TweetMate)
+
+Xの投稿から共通のキーワードを抽出し、ユーザー間の共通点を見つけます。
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
+![TinySegmenter](https://img.shields.io/badge/TinySegmenter-FFA500?style=flat)
+![argparse](https://img.shields.io/badge/argparse-6A5ACD?style=flat)
+![urllib](https://img.shields.io/badge/urllib-4682B4?style=flat)
