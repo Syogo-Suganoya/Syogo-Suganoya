@@ -110,7 +110,7 @@ Xの投稿からネガティブな内容を抽出し、それを不満を解消�
 
 ---
 
-### [inkpost](https://github.com/Syogo-Suganoya/IdeaX)
+### [inkpost](https://github.com/Syogo-Suganoya/inkpost)
 
 Xから取得した投稿をもとに絵日記を生成します。
 
