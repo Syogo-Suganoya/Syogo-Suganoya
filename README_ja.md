@@ -105,7 +105,6 @@ Xの投稿からネガティブな内容を抽出し、それを不満を解消�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
 ![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
 
 ---
@@ -117,7 +116,6 @@ Xから取得した投稿をもとに絵日記を生成します。
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tweepy](https://img.shields.io/badge/Tweepy-1DA1F2?style=flat&logo=twitter&logoColor=white)
 ![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat&logo=dotenv&logoColor=white)
 
 ---
