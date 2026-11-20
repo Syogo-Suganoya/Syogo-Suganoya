@@ -8,7 +8,25 @@ I have experience developing systems that utilize natural language processing, g
 and have driven projects both independently and within teams.
 
 Outside of work, I build civic tech map services using local government open data  
-and web applications powered by generative AI, and keep practicing competitive programming on AtCoder.
+and web applications powered by generative AI, and keep practicing competitive programming on AtCoder.  
+I also contribute to open source projects such as NetBox, Beekeeper Studio, MapLibre GL JS, Misskey, VOICEVOX, InvenTree and CKAN.
+
+**Open to:** freelance projects and full-time opportunities — feel free to reach out via the [contacts](#contact) below.
+
+## 🌱 Open Source Contributions
+
+| Project | Contribution | Technologies |
+|---|---|---|
+| [netbox-community/netbox](https://github.com/netbox-community/netbox) ★22k<br>Network & IP address management | [#23407](https://github.com/netbox-community/netbox/issues/23407) Images tab listed image attachments without applying object permissions | Python, Django |
+| [inventree/InvenTree](https://github.com/inventree/InvenTree) ★7.9k<br>Inventory & parts management | [#7733](https://github.com/inventree/InvenTree/issues/7733) Alert admins when an active plugin relies on deactivated mixins<br>[#7666](https://github.com/inventree/InvenTree/issues/7666) Confirm before closing the Template Editor with unsaved changes | Python, Django, React |
+| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ★24k<br>Database manager with SQL editor | [#3095](https://github.com/beekeeper-studio/beekeeper-studio/issues/3095) Generate `SELECT` with explicit column names from “SQL: Select Top”<br>[#3563](https://github.com/beekeeper-studio/beekeeper-studio/issues/3563) Hide Replace / Replace All in the read-only JSON viewer<br>[#3535](https://github.com/beekeeper-studio/beekeeper-studio/issues/3535) Fall back to a default icon for plugin tabs without one | TypeScript, Vue, Electron |
+| [ckan/ckan](https://github.com/ckan/ckan) ★5.2k<br>Open data catalog used by governments | [#9125](https://github.com/ckan/ckan/issues/9125) Replace deprecated `python setup.py develop` with `pip install -e .` in extension docs | Python, Flask |
+| [team-mirai/mirai-gikai](https://github.com/team-mirai/mirai-gikai) ★214<br>AI-powered explanations of parliamentary bills | [#988](https://github.com/team-mirai/mirai-gikai/issues/988) Interview logs in the open data API were empty or cut off at 1,000 messages | TypeScript, Next.js |
+| [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ★11k<br>Decentralized social network | [#16120](https://github.com/misskey-dev/misskey/issues/16120) Opening an inaccessible chat room link hung on loading with no error<br>[#10307](https://github.com/misskey-dev/misskey/issues/10307) Disable the test-delivery button while there are unsaved changes | TypeScript, Vue |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) ★12k<br>Open-source web map library | [#5179](https://github.com/maplibre/maplibre-gl-js/issues/5179) Characters of line labels rendered in reverse order when overzoomed<br>[#989](https://github.com/maplibre/maplibre-gl-js/issues/989) `icon-size` also scaled the padding of icons sized by `icon-text-fit`<br>[#1619](https://github.com/maplibre/maplibre-gl-js/issues/1619) Document the actual default and range of `minZoom`<br>[#1669](https://github.com/maplibre/maplibre-gl-js/issues/1669) Stack overflow when a source with DOM elements (e.g. canvas) is written inline in a layer | TypeScript, WebGL |
+| [VOICEVOX/voicevox](https://github.com/VOICEVOX/voicevox) ★3.3k<br>Editor for the free speech synthesis software VOICEVOX | [#3083](https://github.com/VOICEVOX/voicevox/issues/3083) Exported file names were limited to 10 characters of the text, making similar files hard to tell apart<br>[#2777](https://github.com/VOICEVOX/voicevox/issues/2777) Stop bundling unused patented codec (AAC / H.264) decoders to reduce commercial-use risk and size<br>[#1275](https://github.com/VOICEVOX/voicevox/issues/1275) Re-selecting the current preset resets modified values to the preset | TypeScript, Vue, Electron |
+| [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) ★1.8k<br>Speech synthesis engine for VOICEVOX | [#1786](https://github.com/VOICEVOX/voicevox_engine/issues/1786) Clarify character / style / speaker in the glossary | Python, FastAPI |
+| [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype) ★1.5k<br>Japanese IME with automatic English / Japanese detection | [#976](https://github.com/yksr-melt/Meltype/issues/976) Candidate window hidden behind the search field in macOS Spotlight<br>[#823](https://github.com/yksr-melt/Meltype/issues/823) Conversion split in the middle of contracted sounds such as 「ショ」 | C# |
 
 ## 💻 GitHub Stats
 <p align="left"> 
@@ -153,3 +171,14 @@ Turns the questions and answers in a meeting recording into a mind map. Gemini c
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 More projects are listed in my [Notion portfolio](https://believed-eris-e1c.notion.site/3bc0e2401e48805cacc7dc6ad04c2d81?v=3cb0e2401e488045ad36000cc024887c).
+
+## 📝 Articles
+
+- Technical articles on [Qiita](https://qiita.com/SyogoSuganoya)
+
+## Contact
+
+- LinkedIn: [ShogoSuganoya](https://www.linkedin.com/in/ShogoSuganoya)
+- Qiita: [SyogoSuganoya](https://qiita.com/SyogoSuganoya)
+- X: [@ssuga620282](https://x.com/ssuga620282)
+- 💖 [Sponsor me on GitHub](https://github.com/sponsors/Syogo-Suganoya)
