@@ -8,7 +8,25 @@
 個人開発やチーム開発を通じてプロジェクトを推進してきました。
 
 業務外では、自治体のオープンデータを活用したシビックテック系の地図サービスや、  
-生成AIを組み込んだWebアプリケーションの個人開発、AtCoderでの競技プログラミングを継続しています。
+生成AIを組み込んだWebアプリケーションの個人開発、AtCoderでの競技プログラミングを継続しています。  
+また、NetBox・Beekeeper Studio・MapLibre GL JS・Misskey・VOICEVOX・InvenTree・CKAN などのOSSにコントリビュートしています。
+
+**業務委託・転職のご相談を受け付けています。** 下記の[連絡先](#連絡先)からお気軽にどうぞ。
+
+## 🌱 OSSへの貢献
+
+| プロジェクト | 内容 | 技術 |
+|---|---|---|
+| [netbox-community/netbox](https://github.com/netbox-community/netbox) ★22k<br>ネットワーク機器・IPアドレス管理 | [#23407](https://github.com/netbox-community/netbox/issues/23407) 画像タブに、閲覧する権限のない画像まで表示されてしまう | Python, Django |
+| [inventree/InvenTree](https://github.com/inventree/InvenTree) ★7.9k<br>在庫・部品管理 | [#7733](https://github.com/inventree/InvenTree/issues/7733) 有効にしたプラグインが、無効な連携機能(mixin)に頼っているとき管理者に知らせる<br>[#7666](https://github.com/inventree/InvenTree/issues/7666) 未保存の変更があるとき、テンプレートエディターを閉じる前に確認を出す | Python, Django, React |
+| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ★24k<br>SQLエディター付きDB管理ツール | [#3095](https://github.com/beekeeper-studio/beekeeper-studio/issues/3095) 右クリックの「SQL: Select Top」で、列名を並べたSELECT文を作る<br>[#3563](https://github.com/beekeeper-studio/beekeeper-studio/issues/3563) 編集できないJSONビューアーでは置換ボタンを出さない<br>[#3535](https://github.com/beekeeper-studio/beekeeper-studio/issues/3535) アイコンのないプラグインタブに標準アイコンを表示する | TypeScript, Vue, Electron |
+| [ckan/ckan](https://github.com/ckan/ckan) ★5.2k<br>各国政府が使うオープンデータカタログ | [#9125](https://github.com/ckan/ckan/issues/9125) 拡張機能の開発手順にある非推奨コマンドを、今の書き方に置き換える | Python, Flask |
+| [team-mirai/mirai-gikai](https://github.com/team-mirai/mirai-gikai) ★214<br>議案をAIで分かりやすく解説するサービス | [#988](https://github.com/team-mirai/mirai-gikai/issues/988) オープンデータAPIで、AIインタビューの会話ログが1000件で打ち切られ、空や途中切れになる | TypeScript, Next.js |
+| [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ★11k<br>国産の分散型SNS | [#16120](https://github.com/misskey-dev/misskey/issues/16120) 開けないチャットルームのリンクを開くと、エラーが出ずに読み込み中のまま止まる<br>[#10307](https://github.com/misskey-dev/misskey/issues/10307) 未保存の変更があるときは、配信テストを押せないようにする | TypeScript, Vue |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) ★12k<br>Web用のオープンソース地図ライブラリ | [#5179](https://github.com/maplibre/maplibre-gl-js/issues/5179) 拡大しすぎた地図で、折り返す線に沿ったラベルの文字が逆順に表示される<br>[#989](https://github.com/maplibre/maplibre-gl-js/issues/989) 文字に合わせて大きさが決まるアイコンを icon-size で拡大すると、余白まで大きくなる<br>[#1619](https://github.com/maplibre/maplibre-gl-js/issues/1619) minZoom の既定値と範囲を、実際の動作どおりにドキュメントへ書く<br>[#1669](https://github.com/maplibre/maplibre-gl-js/issues/1669) canvas などのDOM要素を持つソースをレイヤーに直接書くと、スタックオーバーフローで落ちる | TypeScript, WebGL |
+| [VOICEVOX/voicevox](https://github.com/VOICEVOX/voicevox) ★3.3k<br>無料の音声合成ソフト「VOICEVOX」のエディター | [#3083](https://github.com/VOICEVOX/voicevox/issues/3083) 書き出すファイル名の発話テキストが10文字までで、似た文章のファイルを見分けられない<br>[#2777](https://github.com/VOICEVOX/voicevox/issues/2777) 使っていない特許コーデック（AAC・H.264）のデコーダーを同梱から外し、商用利用時のリスクと容量を減らす<br>[#1275](https://github.com/VOICEVOX/voicevox/issues/1275) 選択中のプリセットを選び直すと、変更した値をプリセットの値に戻せるようにする | TypeScript, Vue, Electron |
+| [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) ★1.8k<br>VOICEVOXの音声合成エンジン | [#1786](https://github.com/VOICEVOX/voicevox_engine/issues/1786) 用語集に、キャラクター・スタイル・speaker の違いを書き足す | Python, FastAPI |
+| [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype) ★1.5k<br>英語と日本語を自動判定する日本語入力（IME） | [#976](https://github.com/yksr-melt/Meltype/issues/976) Mac の Spotlight で入力すると、変換候補のウィンドウが検索欄の裏に隠れる<br>[#823](https://github.com/yksr-melt/Meltype/issues/823) 「ショ」のような拗音の途中で区切って変換してしまう | C# |
 
 ## 💻 GitHub Stats
 <p align="left"> 
@@ -151,3 +169,14 @@ GitHubのリポジトリURLを渡すだけで、実際のコードから4択ク�
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 その他の作品は [Notion](https://believed-eris-e1c.notion.site/3bc0e2401e48805cacc7dc6ad04c2d81?v=3cb0e2401e488045ad36000cc024887c) にまとめています。
+
+## 📝 技術記事
+
+- [Qiita](https://qiita.com/SyogoSuganoya) で技術記事を公開しています
+
+## 連絡先
+
+- LinkedIn: [ShogoSuganoya](https://www.linkedin.com/in/ShogoSuganoya)
+- Qiita: [SyogoSuganoya](https://qiita.com/SyogoSuganoya)
+- X: [@ssuga620282](https://x.com/ssuga620282)
+- 💖 [GitHub Sponsors で支援する](https://github.com/sponsors/Syogo-Suganoya)
